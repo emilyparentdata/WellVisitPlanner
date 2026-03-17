@@ -174,16 +174,13 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
       if (questions.length) html += '<br>';
       html += `<p style="margin: 0 0 4px 0; font-size: 13px; font-weight: 600; color: #054f8b;">Milestones to ask about:</p>`;
       let currentCat = '';
-      html += `<ul style="${s.ul}; list-style: none; padding-left: 8px;">`;
       unchecked.forEach(({ category, text }) => {
         if (category !== currentCat) {
-          if (currentCat) html += '<br>';
           currentCat = category;
-          html += `<li style="font-size: 12px; color: #666; font-weight: 600; text-transform: uppercase; margin-bottom: 2px;">${esc(category)}</li>`;
+          html += `<p style="${s.catTitle}">${esc(category)}</p>`;
         }
-        html += `<li style="${s.checkItem}">\u2610 ${esc(text)}</li>`;
+        html += `<p style="${s.checkItem}; padding-left: 8px;">\u2610 ${esc(text)}</p>`;
       });
-      html += '</ul>';
     }
 
     html += '</div>';
