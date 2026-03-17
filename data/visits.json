@@ -1,0 +1,1043 @@
+[
+  {
+    "id": "newborn",
+    "label": "Newborn",
+    "ageMonths": 0,
+    "ageDisplay": "First Week",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam including heart, hips, eyes, and hearing",
+      "Check for jaundice (yellowing of the skin)",
+      "Discuss feeding patterns — breast or formula, frequency, and output",
+      "Umbilical cord care and circumcision care (if applicable)",
+      "Review newborn screening test results (heel prick)",
+      "Discuss safe sleep practices and tummy time",
+      "Check on parent well-being and postpartum recovery"
+    ],
+    "vaccines": [
+      {
+        "name": "Hepatitis B (HepB) — 1st dose",
+        "note": "Usually given at the hospital within 24 hours of birth"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {},
+    "suggestedQuestions": [
+      "How do I know if my baby is getting enough milk?",
+      "When should I call you vs. go to the ER?",
+      "What vaccines should family members get before seeing the baby?",
+      "How much jaundice is normal?",
+      "Is my baby's weight gain on track?",
+      "How should I handle the umbilical cord stump?"
+    ],
+    "articles": [
+      {
+        "title": "What Things Can I Do with My Baby?",
+        "url": "https://parentdata.org/what-things-can-i-do-with-my-baby/"
+      },
+      {
+        "title": "The Data Behind Breast Milk Supply",
+        "url": "https://parentdata.org/the-data-behind-breast-milk-supply/"
+      },
+      {
+        "title": "Common Postpartum Symptoms and Why They Happen",
+        "url": "https://parentdata.org/common-postpartum-symptoms-and-why-they-happen/"
+      },
+      {
+        "title": "The Data Behind Safe Sleep",
+        "url": "https://parentdata.org/the-data-behind-safe-sleep/"
+      }
+    ]
+  },
+  {
+    "id": "1mo",
+    "label": "1 Month",
+    "ageMonths": 1,
+    "ageDisplay": "1 Month",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Physical exam including fontanelles (soft spots), heart, and hips",
+      "Discuss feeding — frequency, duration, and any concerns",
+      "Assess growth curve and weight gain since birth",
+      "Ask about sleep patterns and safe sleep",
+      "Check for signs of colic or reflux",
+      "Discuss tummy time and early development",
+      "Check on parent well-being and postpartum mood"
+    ],
+    "vaccines": [
+      {
+        "name": "Hepatitis B (HepB) — 2nd dose",
+        "note": "Given between 1–2 months of age"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {},
+    "suggestedQuestions": [
+      "Is my baby gaining enough weight?",
+      "My baby seems fussy in the evenings — is this colic?",
+      "How much tummy time should we be doing?",
+      "When should my baby start smiling?",
+      "How do I know if my baby has reflux?",
+      "Is it safe to use a pacifier?"
+    ],
+    "articles": [
+      {
+        "title": "Early Brain Development in Babies",
+        "url": "https://parentdata.org/early-brain-development-in-babies/"
+      },
+      {
+        "title": "All About Colic",
+        "url": "https://parentdata.org/all-about-colic/"
+      },
+      {
+        "title": "Eating and Drinking While Breastfeeding",
+        "url": "https://parentdata.org/diet-and-breastfeeding/"
+      },
+      {
+        "title": "Pacifier Use from Infancy into Toddlerhood",
+        "url": "https://parentdata.org/pacifiers-use-from-infancy-into-toddlerhood/"
+      }
+    ]
+  },
+  {
+    "id": "2mo",
+    "label": "2 Months",
+    "ageMonths": 2,
+    "ageDisplay": "2 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "First big round of vaccinations (multiple shots)",
+      "Discuss feeding schedule and any changes",
+      "Review developmental milestones",
+      "Talk about sleep patterns and routines",
+      "Screen for postpartum depression (Edinburgh scale)",
+      "Discuss childcare plans if returning to work"
+    ],
+    "vaccines": [
+      {
+        "name": "DTaP (Diphtheria, Tetanus, Pertussis) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "IPV (Polio) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "Hib (Haemophilus influenzae type b) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "PCV15 (Pneumococcal) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "Rotavirus (RV) — 1st dose",
+        "note": "Oral vaccine, not a shot"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      },
+      {
+        "title": "Should I Space Out My Baby's Vaccines?",
+        "url": "https://parentdata.org/should-i-space-out-my-babys-vaccines/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Smiles at people (social smile)",
+        "Looks at you and coos or makes sounds when you talk"
+      ],
+      "Language/Communication": [
+        "Makes sounds other than crying",
+        "Reacts to loud sounds"
+      ],
+      "Cognitive": [
+        "Watches you as you move",
+        "Looks at a toy for several seconds"
+      ],
+      "Physical/Motor": [
+        "Holds head up when on tummy",
+        "Moves both arms and both legs",
+        "Opens hands briefly"
+      ]
+    },
+    "suggestedQuestions": [
+      "What side effects should I expect from the vaccines?",
+      "Can I give my baby Tylenol for vaccine discomfort?",
+      "Is my baby's head shape normal?",
+      "When should I start sleep training?",
+      "How do I know if my baby has a tongue tie?",
+      "When should I start thinking about childcare?"
+    ],
+    "articles": [
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      },
+      {
+        "title": "Should You Fix Your Baby's Tongue Tie?",
+        "url": "https://parentdata.org/are-frenotomies-worth-it/"
+      },
+      {
+        "title": "How Does Day Care Impact Children?",
+        "url": "https://parentdata.org/day-care-bad-children/"
+      },
+      {
+        "title": "When \"It Can't Hurt\" Actually Can",
+        "url": "https://parentdata.org/when-it-cant-hurt-actually-can/"
+      }
+    ]
+  },
+  {
+    "id": "4mo",
+    "label": "4 Months",
+    "ageMonths": 4,
+    "ageDisplay": "4 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Second round of vaccinations",
+      "Discuss sleep — this is when the 4-month sleep regression often hits",
+      "Review motor milestones (rolling, reaching, grasping)",
+      "Talk about readiness signs for solid foods",
+      "Discuss safe sleep as baby becomes more mobile",
+      "May check for flat spots on head (plagiocephaly)"
+    ],
+    "vaccines": [
+      {
+        "name": "DTaP — 2nd dose",
+        "note": ""
+      },
+      {
+        "name": "IPV (Polio) — 2nd dose",
+        "note": ""
+      },
+      {
+        "name": "Hib — 2nd dose",
+        "note": ""
+      },
+      {
+        "name": "PCV15 (Pneumococcal) — 2nd dose",
+        "note": ""
+      },
+      {
+        "name": "Rotavirus (RV) — 2nd dose",
+        "note": "Oral vaccine"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Smiles on their own to get your attention",
+        "Chuckles (not yet a full laugh) when you try to make them laugh",
+        "Looks at you, moves, or makes sounds to get or keep your attention"
+      ],
+      "Language/Communication": [
+        "Makes sounds like 'ooo' and 'aah'",
+        "Makes sounds back when you talk to them",
+        "Turns head toward the sound of your voice"
+      ],
+      "Cognitive": [
+        "If hungry, opens mouth when they see breast or bottle",
+        "Looks at their hands with interest"
+      ],
+      "Physical/Motor": [
+        "Holds head steady without support when being held",
+        "Holds a toy when you put it in their hand",
+        "Uses arm to swing at toys",
+        "Brings hands to mouth",
+        "Pushes up onto elbows/forearms during tummy time"
+      ]
+    },
+    "suggestedQuestions": [
+      "Is my baby ready to start solid foods?",
+      "How do I handle the 4-month sleep regression?",
+      "Should I be concerned about the flat spot on my baby's head?",
+      "When should my baby be rolling over?",
+      "Is it safe to start sleep training now?",
+      "How much should my baby be eating?"
+    ],
+    "articles": [
+      {
+        "title": "Is Sleep Training Bad?",
+        "url": "https://parentdata.org/sleep-training-is-it-bad/"
+      },
+      {
+        "title": "Are Sleep Regressions Real?",
+        "url": "https://parentdata.org/are-sleep-regressions-real/"
+      },
+      {
+        "title": "Is There a Best Method for Sleep Training?",
+        "url": "https://parentdata.org/is-there-a-best-method-for-sleep-training/"
+      },
+      {
+        "title": "Baby Helmets: What Does the Data Say?",
+        "url": "https://parentdata.org/baby-helmets/"
+      }
+    ]
+  },
+  {
+    "id": "6mo",
+    "label": "6 Months",
+    "ageMonths": 6,
+    "ageDisplay": "6 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Third round of vaccinations",
+      "Discuss starting solid foods (if not already started)",
+      "Review motor milestones — sitting, reaching, transferring objects",
+      "Check for teeth coming in",
+      "May do a blood draw to check for anemia and lead",
+      "Discuss food allergy introduction (especially peanut, egg)"
+    ],
+    "vaccines": [
+      {
+        "name": "DTaP — 3rd dose",
+        "note": ""
+      },
+      {
+        "name": "IPV (Polio) — 3rd dose",
+        "note": ""
+      },
+      {
+        "name": "Hib — 3rd dose (if needed)",
+        "note": "Depends on brand used for earlier doses"
+      },
+      {
+        "name": "PCV15 (Pneumococcal) — 3rd dose",
+        "note": ""
+      },
+      {
+        "name": "Rotavirus (RV) — 3rd dose (if needed)",
+        "note": "Depends on brand; some are 2-dose series"
+      },
+      {
+        "name": "Influenza (Flu) — 1st dose",
+        "note": "If during flu season (2 doses needed first year, 4 weeks apart)"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Knows familiar people",
+        "Likes to look at self in mirror",
+        "Laughs"
+      ],
+      "Language/Communication": [
+        "Takes turns making sounds with you",
+        "Blows 'raspberries' (sticks tongue out and blows)",
+        "Makes squealing noises"
+      ],
+      "Cognitive": [
+        "Puts things in their mouth to explore them",
+        "Reaches to grab a toy they want",
+        "Closes lips to show they don't want more food"
+      ],
+      "Physical/Motor": [
+        "Rolls from tummy to back",
+        "Pushes up with straight arms when on tummy",
+        "Leans on hands to support self while sitting"
+      ]
+    },
+    "suggestedQuestions": [
+      "What foods should I introduce first?",
+      "How do I introduce common allergens safely?",
+      "Is baby-led weaning safe?",
+      "My baby has a tooth — when should they see a dentist?",
+      "Should I be concerned about my baby's iron levels?",
+      "How much water can my baby have now?"
+    ],
+    "articles": [
+      {
+        "title": "How to Start Solids",
+        "url": "https://parentdata.org/how-to-start-solids/"
+      },
+      {
+        "title": "Preventing Food Allergies",
+        "url": "https://parentdata.org/food-allergies-a-non-covid-post/"
+      },
+      {
+        "title": "My Baby Is Teething. Now What?",
+        "url": "https://parentdata.org/my-baby-is-teething-now-what/"
+      },
+      {
+        "title": "Can Babies Have Salt?",
+        "url": "https://parentdata.org/can-babies-have-salt/"
+      }
+    ]
+  },
+  {
+    "id": "9mo",
+    "label": "9 Months",
+    "ageMonths": 9,
+    "ageDisplay": "9 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Developmental screening questionnaire (ASQ or similar)",
+      "Blood test for lead and anemia (if not done at 6 months)",
+      "Assess crawling, pulling to stand, and fine motor skills",
+      "Discuss feeding — finger foods, self-feeding, cup drinking",
+      "Talk about baby-proofing as baby becomes mobile",
+      "Review sleep and any ongoing challenges"
+    ],
+    "vaccines": [
+      {
+        "name": "Hepatitis B (HepB) — 3rd dose",
+        "note": "Given between 6–18 months"
+      },
+      {
+        "name": "Influenza (Flu)",
+        "note": "If during flu season"
+      },
+      {
+        "name": "COVID-19",
+        "note": "If eligible per current recommendations"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "May be afraid of strangers",
+        "May be clingy with familiar adults",
+        "Has favorite toys"
+      ],
+      "Language/Communication": [
+        "Makes different sounds like 'mamamama' and 'babababa'",
+        "Lifts arms up to be picked up",
+        "Understands 'no' (pauses briefly or stops)"
+      ],
+      "Cognitive": [
+        "Looks when you call their name",
+        "Looks for objects when dropped out of sight (object permanence)",
+        "Bangs two things together"
+      ],
+      "Physical/Motor": [
+        "Gets to a sitting position by self",
+        "Moves things from one hand to the other",
+        "Uses fingers to rake food towards self",
+        "Sits without support"
+      ]
+    },
+    "suggestedQuestions": [
+      "Is my baby on track developmentally?",
+      "Should I worry that my baby isn't crawling yet?",
+      "What should I baby-proof now that baby is mobile?",
+      "How do I handle separation anxiety?",
+      "Is it normal that my baby isn't sleeping through the night?",
+      "When should my baby switch to a sippy cup?"
+    ],
+    "articles": [
+      {
+        "title": "Is Crawling Important?",
+        "url": "https://parentdata.org/is-crawling-important/"
+      },
+      {
+        "title": "What to Know About Co-Sleeping",
+        "url": "https://parentdata.org/what-to-know-about-co-sleeping/"
+      },
+      {
+        "title": "When Do Babies Start Walking?",
+        "url": "https://parentdata.org/when-do-babies-start-walking/"
+      },
+      {
+        "title": "Hormones During Breastfeeding and Weaning",
+        "url": "https://parentdata.org/hormones-during-breastfeeding-and-weaning/"
+      }
+    ]
+  },
+  {
+    "id": "12mo",
+    "label": "12 Months",
+    "ageMonths": 12,
+    "ageDisplay": "12 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Several new vaccinations",
+      "Blood test for lead and anemia (if not done earlier)",
+      "Developmental milestone review — first words, walking, gestures",
+      "Discuss transition from formula/breast milk to whole milk",
+      "Talk about toddler nutrition and self-feeding",
+      "Discuss dental health — first dentist visit recommended by age 1"
+    ],
+    "vaccines": [
+      {
+        "name": "MMR (Measles, Mumps, Rubella) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "Varicella (Chickenpox) — 1st dose",
+        "note": ""
+      },
+      {
+        "name": "Hepatitis A (HepA) — 1st dose",
+        "note": "2-dose series starting at 12 months"
+      },
+      {
+        "name": "PCV15 (Pneumococcal) — 4th dose",
+        "note": ""
+      },
+      {
+        "name": "Hib — booster dose",
+        "note": "Given between 12–15 months"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      },
+      {
+        "title": "Measles 101",
+        "url": "https://parentdata.org/measles-101/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Plays games with you, like pat-a-cake",
+        "Waves 'bye-bye'",
+        "Calls a parent 'mama' or 'dada' or another special name"
+      ],
+      "Language/Communication": [
+        "Understands 'no' (pauses or stops)",
+        "Says 1–2 words besides 'mama' and 'dada'",
+        "Follows simple directions with gestures (e.g., give me the ball)"
+      ],
+      "Cognitive": [
+        "Puts something in a container, like a block in a cup",
+        "Looks for things they see you hide",
+        "Points to ask for things or get help"
+      ],
+      "Physical/Motor": [
+        "Pulls up to stand",
+        "Walks holding on to furniture (cruising)",
+        "Drinks from a cup without a lid, with help",
+        "Picks things up with thumb and pointer finger (pincer grasp)"
+      ]
+    },
+    "suggestedQuestions": [
+      "How do I transition from formula/breast milk to whole milk?",
+      "Should I be worried that my baby isn't walking yet?",
+      "How many words should my child be saying?",
+      "When should my baby see a dentist?",
+      "Is it safe to give my toddler honey now?",
+      "What should I know about the MMR vaccine?"
+    ],
+    "articles": [
+      {
+        "title": "Toddler Teeth",
+        "url": "https://parentdata.org/toddler-teeth/"
+      },
+      {
+        "title": "When Do Babies Start Walking?",
+        "url": "https://parentdata.org/when-do-babies-start-walking/"
+      },
+      {
+        "title": "Measles 101",
+        "url": "https://parentdata.org/measles-101/"
+      },
+      {
+        "title": "Should I Switch My Child from Whole to 2% Milk?",
+        "url": "https://parentdata.org/got-milk/"
+      }
+    ]
+  },
+  {
+    "id": "15mo",
+    "label": "15 Months",
+    "ageMonths": 15,
+    "ageDisplay": "15 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Catch-up on any vaccines not yet given",
+      "Assess walking (most children walk by 15 months)",
+      "Review language development — words, gestures, understanding",
+      "Discuss behavior — tantrums are starting!",
+      "Talk about toddler eating habits and picky eating",
+      "Screen for autism spectrum disorder (M-CHAT or similar)"
+    ],
+    "vaccines": [
+      {
+        "name": "DTaP — 4th dose",
+        "note": "Given between 15–18 months"
+      },
+      {
+        "name": "Hib — booster (if not given at 12 months)",
+        "note": ""
+      },
+      {
+        "name": "Hepatitis A (HepA) — 2nd dose",
+        "note": "At least 6 months after the 1st dose"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Copies other children while playing (like taking toys out of a container)",
+        "Shows you an object they like",
+        "Claps when excited",
+        "Hugs stuffed doll or other toy"
+      ],
+      "Language/Communication": [
+        "Tries to say 1–2 words besides 'mama' or 'dada'",
+        "Looks at a familiar object when you name it",
+        "Follows directions given with both a gesture and words",
+        "Points to ask for something or to get help"
+      ],
+      "Cognitive": [
+        "Tries to use things the right way (phone, cup, book)",
+        "Stacks at least 2 small objects"
+      ],
+      "Physical/Motor": [
+        "Takes a few steps on their own",
+        "Uses fingers to feed themselves some food"
+      ]
+    },
+    "suggestedQuestions": [
+      "My toddler has tantrums — what's normal?",
+      "Should I worry about picky eating?",
+      "How many words should my child have by now?",
+      "What should the autism screening tell us?",
+      "When should I transition from a bottle to a cup?",
+      "Is it normal that my toddler isn't walking steadily yet?"
+    ],
+    "articles": [
+      {
+        "title": "Is It OK to Use Sippy Cups?",
+        "url": "https://parentdata.org/sippy-cups/"
+      },
+      {
+        "title": "How to Healthily Express Your Emotions to Your Kids",
+        "url": "https://parentdata.org/how-to-healthily-express-your-emotions-to-your-kids/"
+      },
+      {
+        "title": "How to Travel With Kids",
+        "url": "https://parentdata.org/how-to-travel-with-kids/"
+      },
+      {
+        "title": "How Many Words Should Kids Say? And When?",
+        "url": "https://parentdata.org/how-many-words-should-kids-say-and-when/"
+      }
+    ]
+  },
+  {
+    "id": "18mo",
+    "label": "18 Months",
+    "ageMonths": 18,
+    "ageDisplay": "18 Months",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Formal autism screening (M-CHAT-R/F) — required at this visit",
+      "Developmental screening questionnaire",
+      "Review language — should have several words by now",
+      "Discuss behavior, independence, and limit-setting",
+      "Talk about dental care and brushing teeth",
+      "Discuss potty training readiness (not expected yet, but on the horizon)"
+    ],
+    "vaccines": [
+      {
+        "name": "DTaP — 4th dose (if not given at 15 months)",
+        "note": ""
+      },
+      {
+        "name": "Hepatitis A (HepA) — 2nd dose (if not given)",
+        "note": ""
+      },
+      {
+        "name": "Influenza (Flu)",
+        "note": "Annually, if during flu season"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Moves away from you, but looks to make sure you are close by",
+        "Points to show you something interesting",
+        "Puts hands out for you to wash them",
+        "Looks at a few pages in a book with you"
+      ],
+      "Language/Communication": [
+        "Tries to say 3 or more words besides 'mama' or 'dada'",
+        "Follows 1-step directions without any gestures",
+        "Points to show you what they want"
+      ],
+      "Cognitive": [
+        "Copies you doing chores, like sweeping with a broom",
+        "Plays with toys in a simple way, like pushing a toy car"
+      ],
+      "Physical/Motor": [
+        "Walks without holding on to anyone or anything",
+        "Scribbles",
+        "Drinks from a cup without a lid",
+        "Feeds themselves with fingers",
+        "Tries to use a spoon"
+      ]
+    },
+    "suggestedQuestions": [
+      "What does the autism screening look for?",
+      "My toddler barely eats at meals — should I worry?",
+      "How many words is normal at 18 months?",
+      "When should we start potty training?",
+      "How do I set limits without saying 'no' constantly?",
+      "Is screen time okay at this age?"
+    ],
+    "articles": [
+      {
+        "title": "How Many Words Should Kids Say? And When?",
+        "url": "https://parentdata.org/how-many-words-should-kids-say-and-when/"
+      },
+      {
+        "title": "Infant Screen Time and Academic Success",
+        "url": "https://parentdata.org/panic-headlines-a-new-series/"
+      },
+      {
+        "title": "How Important Is Family Dinner?",
+        "url": "https://parentdata.org/how-important-is-family-dinner/"
+      },
+      {
+        "title": "Can Rushing Kids Give Them Anxiety?",
+        "url": "https://parentdata.org/can-rushing-kids-give-them-anxiety/"
+      }
+    ]
+  },
+  {
+    "id": "24mo",
+    "label": "2 Years",
+    "ageMonths": 24,
+    "ageDisplay": "2 Years",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Formal autism screening (M-CHAT-R/F) — required again at this visit",
+      "Developmental and behavioral screening",
+      "Review language — should be combining 2 words by now",
+      "Discuss potty training, if child shows signs of readiness",
+      "Talk about discipline approaches and managing tantrums",
+      "Begin plotting BMI on growth charts",
+      "May screen for lead exposure based on risk factors"
+    ],
+    "vaccines": [
+      {
+        "name": "Hepatitis A (HepA) — 2nd dose (if not given)",
+        "note": ""
+      },
+      {
+        "name": "Influenza (Flu)",
+        "note": "Annually"
+      },
+      {
+        "name": "COVID-19",
+        "note": "If eligible per current recommendations"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Notices when others are hurt or upset (may pause or cry)",
+        "Looks at your face to see how to react in a new situation"
+      ],
+      "Language/Communication": [
+        "Points to things in a book when you ask",
+        "Says at least 2 words together (like 'More milk')",
+        "Points to at least 2 body parts when asked",
+        "Uses more gestures than just waving and pointing"
+      ],
+      "Cognitive": [
+        "Holds something in one hand while using the other",
+        "Tries to use switches, knobs, or buttons on a toy",
+        "Plays with more than one toy at a time"
+      ],
+      "Physical/Motor": [
+        "Kicks a ball",
+        "Runs",
+        "Walks (not climbs) up a few stairs with or without help",
+        "Eats with a spoon"
+      ]
+    },
+    "suggestedQuestions": [
+      "Is my child's speech on track?",
+      "How do I know if my child is ready for potty training?",
+      "What should I make of the autism screening results?",
+      "Is it normal for my 2-year-old to have big tantrums?",
+      "Should I worry about how much (or little) my toddler eats?",
+      "When should we transition from a crib to a bed?"
+    ],
+    "articles": [
+      {
+        "title": "How Many Words Should Kids Say? And When?",
+        "url": "https://parentdata.org/how-many-words-should-kids-say-and-when/"
+      },
+      {
+        "title": "Managing the Toddler Bed Transition",
+        "url": "https://parentdata.org/transitioning-from-a-crib-to-a-toddler-bed/"
+      },
+      {
+        "title": "Is Gentle Parenting Best?",
+        "url": "https://parentdata.org/is-gentle-parenting-best/"
+      },
+      {
+        "title": "What Does Matter for Childhood Outcomes?",
+        "url": "https://parentdata.org/what-matters-childhood-outcomes/"
+      }
+    ]
+  },
+  {
+    "id": "30mo",
+    "label": "2.5 Years",
+    "ageMonths": 30,
+    "ageDisplay": "2.5 Years",
+    "whatToExpect": [
+      "Weight, length, and head circumference measurements",
+      "Full physical exam",
+      "Developmental screening — focus on language and social skills",
+      "Review toilet training progress",
+      "Discuss preschool readiness and social development",
+      "Talk about managing challenging behaviors",
+      "Check dental health — should be seeing a dentist regularly",
+      "Review nutrition and any persistent picky eating"
+    ],
+    "vaccines": [
+      {
+        "name": "Influenza (Flu)",
+        "note": "Annually"
+      },
+      {
+        "name": "Catch-up vaccines",
+        "note": "Any missed doses from the schedule"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Your Guide to Childhood Vaccinations Before Age 2",
+        "url": "https://parentdata.org/your-guide-to-childhood-vaccinations-before-age-2/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Plays next to other children and sometimes plays with them",
+        "Shows you what they can do by saying 'Look at me!'",
+        "Follows simple routines when told (like picking up toys)"
+      ],
+      "Language/Communication": [
+        "Says about 50 words",
+        "Says 2 or more words together, with one action word (like 'Doggy run')",
+        "Names things in a book when you point and ask 'What is this?'",
+        "Says words like 'I,' 'me,' or 'we'"
+      ],
+      "Cognitive": [
+        "Uses things to pretend (feeds a stuffed animal)",
+        "Shows simple problem-solving skills (stands on stool to reach something)",
+        "Follows 2-step instructions (like 'Put the toy down and close the door')"
+      ],
+      "Physical/Motor": [
+        "Uses hands to twist things (turns doorknobs, unscrews lids)",
+        "Takes some clothes off by themselves",
+        "Jumps off the ground with both feet",
+        "Turns pages of a book one at a time"
+      ]
+    },
+    "suggestedQuestions": [
+      "Is my child ready for preschool?",
+      "Should I be concerned about stuttering?",
+      "My toddler hits/bites — how should I respond?",
+      "Is potty training regression normal?",
+      "How much should my 2.5-year-old be talking?",
+      "When should I worry about picky eating?"
+    ],
+    "articles": [
+      {
+        "title": "Preparing Your Child for a New Sibling",
+        "url": "https://parentdata.org/preparing-your-child-for-a-new-sibling/"
+      },
+      {
+        "title": "What to Do About Chronic Constipation",
+        "url": "https://parentdata.org/what-to-do-about-chronic-constipation/"
+      },
+      {
+        "title": "How to Help Your Kids Be More Independent",
+        "url": "https://parentdata.org/how-to-help-your-kids-be-more-independent/"
+      },
+      {
+        "title": "Screens and Social Media",
+        "url": "https://parentdata.org/screens-amp-social-media/"
+      }
+    ]
+  },
+  {
+    "id": "36mo",
+    "label": "3 Years",
+    "ageMonths": 36,
+    "ageDisplay": "3 Years",
+    "whatToExpect": [
+      "Weight, height (standing), and BMI measurements",
+      "Full physical exam",
+      "Vision screening (first formal screen for many practices)",
+      "Developmental and behavioral screening",
+      "Review speech and language — should be mostly understandable",
+      "Discuss preschool adjustment and social skills",
+      "Talk about toilet training completion",
+      "Discuss fears, nightmares, and sleep changes",
+      "Review screen time and media habits"
+    ],
+    "vaccines": [
+      {
+        "name": "Influenza (Flu)",
+        "note": "Annually"
+      },
+      {
+        "name": "Catch-up vaccines",
+        "note": "Any missed doses"
+      }
+    ],
+    "vaccineLinks": [
+      {
+        "title": "How Can You Know If Vaccines Are Safe?",
+        "url": "https://parentdata.org/grown-ups/how-can-you-know-if-vaccines-are-safe/"
+      },
+      {
+        "title": "Vaccine Recommendations Are Changing. What Might Happen Next?",
+        "url": "https://parentdata.org/vaccine-recommendations-are-changing-what-might-happen-next/"
+      }
+    ],
+    "milestones": {
+      "Social/Emotional": [
+        "Calms down within 10 minutes after you leave (like at childcare drop-off)",
+        "Notices other children and joins them to play"
+      ],
+      "Language/Communication": [
+        "Talks with you in conversation using at least 2 back-and-forth exchanges",
+        "Asks 'who,' 'what,' 'where,' or 'why' questions",
+        "Says what action is happening in a picture (running, eating, playing)",
+        "Says first name when asked",
+        "Talks well enough for others to understand, most of the time"
+      ],
+      "Cognitive": [
+        "Draws a circle when you show them how",
+        "Avoids touching hot objects (like a stove) when warned"
+      ],
+      "Physical/Motor": [
+        "Strings items together (like large beads)",
+        "Puts on some clothes by themselves (like loose pants or jacket)",
+        "Uses a fork"
+      ]
+    },
+    "suggestedQuestions": [
+      "Is my child's speech clear enough for their age?",
+      "How do I handle nightmares and night terrors?",
+      "Is my child ready for preschool socially?",
+      "Should I worry about my child's imaginary friends?",
+      "How much screen time is appropriate at this age?",
+      "When should the next round of vaccines happen (before kindergarten)?"
+    ],
+    "articles": [
+      {
+        "title": "Screens and Social Media",
+        "url": "https://parentdata.org/screens-amp-social-media/"
+      },
+      {
+        "title": "Why Water Safety Is So Important",
+        "url": "https://parentdata.org/swim-lessons-pool-fencing-and-water-safety/"
+      },
+      {
+        "title": "All About Car Seats",
+        "url": "https://parentdata.org/car-seats-when-to-turn-when-to-stop/"
+      },
+      {
+        "title": "Finding Dr. Right",
+        "url": "https://parentdata.org/finding-dr-right/"
+      }
+    ]
+  }
+]
