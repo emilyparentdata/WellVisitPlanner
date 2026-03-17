@@ -179,9 +179,9 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
       unchecked.forEach(({ category, text }) => {
         if (category !== currentCat) {
           currentCat = category;
-          html += `<p style="${s.catTitle}">${esc(category)}</p>`;
+          html += `<p style="${s.catTitle}; padding-left: 4px;">${esc(category)}</p>`;
         }
-        html += `<p style="${s.checkItem}; padding-left: 8px;">\u2610 ${esc(text)}</p>`;
+        html += `<p style="${s.checkItem}; padding-left: 24px;">\u2610 ${esc(text)}</p>`;
       });
     }
 
@@ -216,12 +216,12 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
   if (Object.keys(visit.milestones).length > 0) {
     html += `<h3 style="${s.sectionTitle}">All Milestones</h3>`;
     for (const [category, items] of Object.entries(visit.milestones)) {
-      html += `<p style="${s.catTitle}">${esc(category)}</p>`;
+      html += `<p style="${s.catTitle}; padding-left: 4px;">${esc(category)}</p>`;
       items.forEach((item, i) => {
         const isChecked = checked.has(`${category}::${i}`);
         const mark = isChecked ? '\u2611' : '\u2610';
         const textStyle = isChecked ? 'color: #999; text-decoration: line-through;' : '';
-        html += `<p style="${s.checkItem}">${mark} <span style="${textStyle}">${esc(item)}</span></p>`;
+        html += `<p style="${s.checkItem}; padding-left: 24px;">${mark} <span style="${textStyle}">${esc(item)}</span></p>`;
       });
     }
   }
