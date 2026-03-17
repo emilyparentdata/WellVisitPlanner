@@ -24,7 +24,7 @@ export function buildPrepText(visit) {
       lines.push('');
     }
     if (unchecked.length) {
-      lines.push('Milestones to ask about:');
+      lines.push('Milestones you might want to discuss:');
       let currentCat = '';
       unchecked.forEach(({ category, text }) => {
         if (category !== currentCat) {
@@ -37,11 +37,13 @@ export function buildPrepText(visit) {
     }
   }
 
-  lines.push('WHAT TO EXPECT');
+  lines.push('EVERYTHING YOU NEED TO KNOW');
+  lines.push('');
+  lines.push('What to Expect');
   visit.whatToExpect.forEach(item => lines.push(`  - ${item}`));
   lines.push('');
 
-  lines.push('VACCINES');
+  lines.push('Vaccines');
   visit.vaccines.forEach(v => {
     let line = `  - ${v.name}`;
     if (v.note) line += ` (${v.note})`;
@@ -57,7 +59,7 @@ export function buildPrepText(visit) {
   lines.push('');
 
   if (Object.keys(visit.milestones).length > 0) {
-    lines.push('MILESTONES');
+    lines.push('All Milestones');
     for (const [category, items] of Object.entries(visit.milestones)) {
       lines.push(`  ${category}:`);
       items.forEach((item, i) => {
@@ -68,7 +70,7 @@ export function buildPrepText(visit) {
     lines.push('');
   }
 
-  lines.push('RECOMMENDED READING');
+  lines.push('Recommended Reading');
   visit.articles.forEach(a => {
     lines.push(`  - ${a.title}`);
     lines.push(`    ${a.url}`);
@@ -172,7 +174,7 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
 
     if (unchecked.length) {
       if (questions.length) html += '<br>';
-      html += `<p style="margin: 0 0 4px 0; font-size: 13px; font-weight: 600; color: #054f8b;">Milestones to ask about:</p>`;
+      html += `<p style="margin: 0 0 4px 0; font-size: 13px; font-weight: 600; color: #054f8b;">Milestones you might want to discuss:</p>`;
       let currentCat = '';
       unchecked.forEach(({ category, text }) => {
         if (category !== currentCat) {
@@ -185,6 +187,9 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
 
     html += '</div>';
   }
+
+  // Everything You Need to Know
+  html += `<h2 style="${s.discussTitle}; margin-top: 32px;">Everything You Need to Know</h2>`;
 
   // What to Expect
   html += `<h3 style="${s.sectionTitle}">What to Expect</h3>`;
@@ -209,7 +214,7 @@ function buildHTMLBody(visit, questions, unchecked, checked, s) {
 
   // Milestones
   if (Object.keys(visit.milestones).length > 0) {
-    html += `<h3 style="${s.sectionTitle}">Milestones</h3>`;
+    html += `<h3 style="${s.sectionTitle}">All Milestones</h3>`;
     for (const [category, items] of Object.entries(visit.milestones)) {
       html += `<p style="${s.catTitle}">${esc(category)}</p>`;
       items.forEach((item, i) => {

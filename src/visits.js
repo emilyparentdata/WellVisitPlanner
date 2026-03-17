@@ -131,6 +131,11 @@ function renderMilestones(visitId, milestones) {
   const card = createCard('Milestones', '📋');
   const checked = loadMilestones(visitId);
 
+  const hint = document.createElement('div');
+  hint.className = 'milestone-hint';
+  hint.textContent = 'Check off the milestones your child is already doing. Any you don\u2019t check will be highlighted in your shared document so you can discuss them with your pediatrician.';
+  card.appendChild(hint);
+
   for (const [category, items] of Object.entries(milestones)) {
     const group = document.createElement('div');
     group.className = 'milestone-category';
